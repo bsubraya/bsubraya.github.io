@@ -24,7 +24,7 @@ img {
 }
 </style>
 
-<h2> Multiwavelength observations and characterization of the ultraluminous transient AT2021lwx (ZTF20abrbeie; aka " Scary Barbie") </h2>
+<h2> Multiwavelength observations and characterization of the ultraluminous transient AT2021lwx (ZTF20abrbeie; aka "Scary Barbie") </h2>
 
 <p style="text-align:center;max-width:100%;margin-right:15px;padding-bottom:-10px;display:block;float:left;vertical-align:top"><img src="https://bsubraya.github.io/images/Scary_Barbie.png" alt="Rest-frame ztf-r absolute light curve of AT 2021lwx plotted in comparison with other luminous transients." data-api-endpoint="https://bsubraya.github.io/images/Scary_Barbie.png" data-api-returntype="File" /><br /><span style="font-size: medium;"> Rest-frame ztf-r absolute light curve of AT2021lwx plotted in comparison with other luminous transients (<a href="https://iopscience.iop.org/article/10.3847/2041-8213/accf1a/meta" style="text-decoration: none">Subrayan+ 2023 </a>)</span></p>
 
