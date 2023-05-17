@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/public-libraries/wpvAYw7RR92BEdDvDelBxw" style="text-decoration:none">ADS</a>.
 
 <b>Selected Papers</b>
 <ol>
