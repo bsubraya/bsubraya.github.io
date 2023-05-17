@@ -16,10 +16,10 @@ I am a final year PhD candidate at the Department of Physics and Astronomy at Pu
 Research Interests
 ======
 
-     * Multi-wavelength studies of astrophysical transients in time-domain astronomy
-     * Maximizing scientific return from ongoing and upcoming all sky surveys
-     * Understanding core-collapse supernovae explosion physics with remnants
-     * Investigations of stellar atmospheres; mass-loss rates; radiative transport in stellar winds; spectral modelling
+     * Multi-wavelength studies 
+     * Maximizing scientific return 
+     * Understanding core-collapse supernovae 
+     * Investigations of stellar atmospheres
      
 Contact
 ------
