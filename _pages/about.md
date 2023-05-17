@@ -15,10 +15,14 @@ I am an incoming fifth year PhD candidate at the Department of Physics and Astro
 
 Contact
 ------
-Department of Physics and Astronomy,
+Department of Physics and Astronomy
+<br>
 Purdue University
-Northwestern Avenue,
-West Lafayette, Indiana 47906
-
+<br>
+525 Northwestern Avenue
+<br>
+West Lafayette, IN 47906
+<br><br>
 Email:bsubraya@purdue.edu
+<br>
 Phone: (+1)765-418-2457
