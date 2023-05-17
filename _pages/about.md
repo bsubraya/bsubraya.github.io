@@ -16,10 +16,12 @@ I am a final year PhD candidate at the Department of Physics and Astronomy at Pu
 Research Interests
 ======
 
-     * Multi-wavelength studies 
-     * Maximizing scientific return 
-     * Understanding core-collapse supernovae 
-     * Investigations of stellar atmospheres
+  * Protoclusters and Cluster Evolution
+  * Supernova Remnant Morphology
+  * Galaxy Evolution and Morphology
+  * Large Scale Structure Dynamics
+  * Computational Astrophysics
+  * Hydrodynamical Simulations
      
 Contact
 ------
