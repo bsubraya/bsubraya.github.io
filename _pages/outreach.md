@@ -28,10 +28,10 @@ redirect_from:
 
 <h2>Leadership and Service</h2>
 
-<p style="text-align:center;max-width:50%;margin-right:30px;padding-bottom:-50px;display:block;float:right;vertical-align:top"><img src="https://bsubraya.github.io/images/WISP.jpg" alt="WISP Outreach" data-api-endpoint="https://bsubraya.github.io/images/WISP.jpg" data-api-returntype="File" /><br /><span style="font-size: medium;"> <a href="https://www.purdue.edu/science/wisp/graduate/index.html" style="text-decoration:none">Women In Science Program (WISP)</a> </span>
+<p style="text-align:center;max-width:80%;margin-right:30px;padding-bottom:-50px;display:block;float:right;vertical-align:top"><img src="https://bsubraya.github.io/images/WISP.jpg" alt="WISP Outreach" data-api-endpoint="https://bsubraya.github.io/images/WISP.jpg" data-api-returntype="File" /><br /><span style="font-size: medium;"> <a href="https://www.purdue.edu/science/wisp/graduate/index.html" style="text-decoration:none">Women In Science Program (WISP)</a> </span>
 </p>
 
-<p> Passionately supporting women and underrepresented groups in STEM, I am driven to break down barriers and create a more inclusive scientific community.<a href="https://www.purdue.edu/science/wisp/graduate/index.html" style="text-decoration:none">WISP</a> stands for Women in Science Program. A platform for graduate students across STEM fields at Purdue could network, support and help each other succeed in their careers. We plan a series of monthly events with invited speakers throughout an academic year on life-skills/ science based topics. I served as the Graduate WISP Leadership Member and liasion for the Department of Physics and Astronomy from 2020-2023 mentoring and supporting undergraduate and graduate women in STEM fields at Purdue. </p>
+<p> Passionately supporting women and underrepresented groups in STEM, I am driven to break down barriers and create a more inclusive scientific community. <a href="https://www.purdue.edu/science/wisp/graduate/index.html" style="text-decoration:none">WISP</a> stands for Women in Science Program. A platform for graduate students across STEM fields at Purdue could network, support and help each other succeed in their careers. We plan a series of monthly events with invited speakers throughout an academic year on life-skills/ science based topics. I served as the Graduate WISP Leadership Member and liasion for the Department of Physics and Astronomy from 2020-2023 mentoring and supporting undergraduate and graduate women in STEM fields at Purdue. </p>
 
 
 
