@@ -18,7 +18,7 @@ I am a South Indian from the state of Kerala. I enjoy programming, travelling, w
 Research Interests
 ======
 
-  * Multiwavelngth observations of astrophysical transients in time-domain astronomy
+  * Multiwavelength observations of astrophysical transients in time-domain astronomy
   * Maximizing scientific return from ongoing and upcoming all-sky surveys
   * Understanding core-collapse supernovae with their remnants
   * Investigating precursor activities and mass-loss mechanisms in massive stars
