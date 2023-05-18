@@ -21,11 +21,18 @@ redirect_from:
 
 <p>I gave a talk on Astro On Tap -- Cradle of Astronauts sharing my passion for astronomy and the incredible possibilities offered by the JWST. Engaging with the enthusiastic audience and discussing the upcoming advancements of the JWST opened my eyes to the importance of conveying complex scientific concepts in an accessible and engaging manner. It highlighted the power of storytelling and visuals in capturing the imagination and inspiring a sense of wonder about the universe.</p>
 
-<p style="text-align:center;max-width:45%;margin-right:30px;padding-bottom:-50px;display:block;float:left;vertical-align:top"><img src="https://bsubraya.github.io/images/SMAP.jpeg" alt="SMAP Outreach" data-api-endpoint="https://bsubraya.github.io/images/SMAP.jpeg" data-api-returntype="File" /><br /><span style="font-size: medium;"> <a href="https://www.physics.purdue.edu/outreach/saturday-morning/index.html" style="text-decoration:none">Saturday Morning Astrophysics at Purdue (SMAP)</a> </span>
+<p style="text-align:center;max-width:50%;margin-right:30px;padding-bottom:-50px;display:block;float:left;vertical-align:top"><img src="https://bsubraya.github.io/images/SMAP.jpeg" alt="SMAP Outreach" data-api-endpoint="https://bsubraya.github.io/images/SMAP.jpeg" data-api-returntype="File" /><br /><span style="font-size: medium;"> <a href="https://www.physics.purdue.edu/outreach/saturday-morning/index.html" style="text-decoration:none">Saturday Morning Astrophysics at Purdue (SMAP)</a> </span>
 </p>
 
 <p> I am a volunteer at the Saturday Morning Astrophysics at Purdue (SMAP) where will ignite passion for astrophysics and nurture the next generation of scientific thinkers and explorers. We work with middle and high school students in grades 7-12 diving into current topics in astro research, historical background and discovery, and fundamental principles related to physics and astronomy. During pandemic, I gave a <a href="https://www.youtube.com/watch?v=imOoTtWWatE&t=160s&ab_channel=SaturdayMorningAstrophysicsatPurdue" style="text-decoration:none">virtual </a> lesson on Stellarium with Jack Reynolds. </p>
 
 <h2>Leadership and Service</h2>
+
+<p style="text-align:center;max-width:50%;margin-right:30px;padding-bottom:-50px;display:block;float:right;vertical-align:top"><img src="https://bsubraya.github.io/images/WISP.jpg" alt="WISP Outreach" data-api-endpoint="https://bsubraya.github.io/images/WISP.jpg" data-api-returntype="File" /><br /><span style="font-size: medium;"> <a href="https://www.purdue.edu/science/wisp/graduate/index.html" style="text-decoration:none">Women In Science Program (WISP)</a> </span>
+</p>
+
+<p> Passionately supporting women and underrepresented groups in STEM, I am driven to break down barriers and create a more inclusive scientific community.<a href="https://www.purdue.edu/science/wisp/graduate/index.html" style="text-decoration:none">WISP</a> stands for Women in Science Program. A platform for graduate students across STEM fields at Purdue could network, support and help each other succeed in their careers. We plan a series of monthly events with invited speakers throughout an academic year on life-skills/ science based topics. I served as the Graduate WISP Leadership Member and liasion for the Department of Physics and Astronomy from 2020-2023 mentoring and supporting undergraduate and graduate women in STEM fields at Purdue. </p>
+
+
 
 
