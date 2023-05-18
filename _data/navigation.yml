@@ -6,14 +6,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks and Awards"
-    url: /talks/    
+  #- title: "Talks and Awards"
+  #  url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+ # - title: "Teaching"
+    #url: /teaching/    
     
- # - title: "Outreach"
-  #  url:/outreach/
+  - title: "Outreach"
+    url:/outreach/
         
   #- title: "Blog Posts"
    # url: /year-archive/
