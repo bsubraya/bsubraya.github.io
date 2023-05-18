@@ -13,6 +13,8 @@ Cosmic Explorer | Department of Physics and Astronomy | Purdue University
 
 I am a final year PhD candidate at the Department of Physics and Astronomy at Purdue University. I work on astrophysical transients specifically supernovae under supervision of [Dr. Danny Milisavljevic](https://www.physics.purdue.edu/milisavljevic/people.html) in the exciting [Time Domain Astrophysics Group](https://www.physics.purdue.edu/milisavljevic/index.html). My research primarily focuses on developing statistical inference techniques to extract science of explosion parameters from sparse supernova light-curves. Our Group at Purdue has been developing a novel state-of-the-art transient classification and strategy engine called the Recommender Engine for Intelligent Transient Tracking [(REFITT)](https://refitt.physics.purdue.edu/), an artificial intelligence system that autonomously designs optimal observing strategies in real time using advanced machine learning techniques to confront the Big Data Challenge with the upcoming Vera. C. Rubin Observatory Legacy Survey of Space and Time [(LSST)](https://www.lsst.org/) in the field of astronomy. 
 
+I am a South Indian from the state of Kerala. I enjoy programming, travelling, working out, running, playing volleyball and cooking. I like to be part of Leadership Teams in planning and organising events. I am a strong supporter and advocate of women and underrepresented groups in STEM fields. 
+
 Research Interests
 ======
 
