@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bhagya Subrayan"
 title_separator          : "-"
 name                     : &name "Bhagya Subrayan (she/her/hers)"
-description              : &description "PhD candidate, Time Domain Astrophysics Group, Department of Physics and Astronomy, Purdue University"
+description              : &description "Postdoctoral Research Associate, Steward Observatory, University of Arizona"
 url                      : "https://bsubraya.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bsubraya/bsubraya.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Bhagya M. Subrayan (she/her/hers)"
   avatar           : "bhagya_bio.jpg"
-  bio              : "PhD candidate, Time-Domain Astrophysics Group, Department of Physics and Astronomy, Purdue University"
-  location         : "West Lafayette, Indiana, USA"
+  bio              : "Postdoctoral Research Associate, Steward Observatory, University of Arizona"
+  location         : "Tucson, Arizona"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=t4L_D18AAAAJ"
-  email            : "bsubraya@purdue.edu"
+  email            : "bsubrayan@arizona.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
