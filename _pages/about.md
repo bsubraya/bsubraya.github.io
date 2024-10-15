@@ -30,7 +30,7 @@ Research Interests
 ======
 
   * Multiwavelength observations of astrophysical transients in time-domain astronomy
-  * Maximizing scientific return from ongoing and upcoming all-sky surveys using cutting edge AI 
+  * Maximizing scientific return from ongoing and upcoming all-sky surveys using AI 
   * Understanding core-collapse supernovae with their remnants
   * Investigating precursor activities and mass-loss mechanisms in massive stars
      
