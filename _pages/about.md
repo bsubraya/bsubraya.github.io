@@ -8,31 +8,43 @@ redirect_from:
   - /about.html
 ---
 
-Cosmic Explorer | Department of Physics and Astronomy | Purdue University
+Cosmic Explorer | Steward Observatory | University of Arizona
 ======
 
-I am a final year PhD candidate at the Department of Physics and Astronomy at Purdue University. I work on astrophysical transients specifically supernovae under supervision of [Dr. Danny Milisavljevic](https://www.physics.purdue.edu/milisavljevic/people.html) in the exciting [Time Domain Astrophysics Group](https://www.physics.purdue.edu/milisavljevic/index.html). My research primarily focuses on developing statistical inference techniques to extract science of explosion parameters from sparse supernova light-curves. Our Group at Purdue has been developing a novel state-of-the-art transient classification and strategy engine called the Recommender Engine for Intelligent Transient Tracking [(REFITT)](https://refitt.physics.purdue.edu/), an artificial intelligence system that autonomously designs optimal observing strategies in real time using advanced machine learning techniques to confront the Big Data Challenge with the upcoming Vera. C. Rubin Observatory Legacy Survey of Space and Time [(LSST)](https://www.lsst.org/) in the field of astronomy. 
+---
 
-I am a South Indian from the state of Kerala. I enjoy programming, travelling, working out, running, playing volleyball and cooking. I like to be part of Leadership Teams in planning and organising events. I am a strong supporter and advocate of women and underrepresented groups in STEM fields. 
+I’m currently a **Postdoctoral Research Associate** at **[Steward Observatory](https://www.as.arizona.edu/)** at the **[University of Arizona](https://www.arizona.edu/)**, working with **Prof. [Dave Sand](https://www.as.arizona.edu/people/faculty)** to study **young, nearby supernovae** and investigate the formation of **dust in core-collapse supernova ejecta**. Using the powerful capabilities of the **[James Webb Space Telescope (JWST)](https://jwst.nasa.gov/)**, my research is focused on unlocking the secrets of these cosmic explosions and their impact on dust production in the universe.
+
+Before joining the University of Arizona, I completed my **Ph.D. in Astrophysics** at **[Purdue University](https://www.purdue.edu/)** under the supervision of **[Dr. Danny Milisavljevic](https://www.physics.purdue.edu/milisavljevic/people.html)**. As part of Purdue’s **[Time Domain Astrophysics Group](https://www.physics.purdue.edu/milisavljevic/index.html)**, I worked on developing advanced **statistical inference techniques** to extract explosion parameters from sparse supernova light curves, advancing our understanding of these stellar events through innovative data analysis methods.
+
+During my time at Purdue, I also contributed to the development of the **[Recommender Engine for Intelligent Transient Tracking (REFITT)](https://refitt.physics.purdue.edu/)**—an AI-driven system designed to optimize observing strategies in real time. REFITT is poised to address the **Big Data challenge** of the upcoming **[Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST)](https://www.lsst.org/)**, helping to ensure that the most scientifically exciting transient events are captured from the billions of stars that will be observed.
+
+Beyond my academic work, I’m passionate about **programming, data science**, and the application of **machine learning** in astronomy. I’m also a strong advocate for **women and underrepresented groups** in **STEM**, and I take pride in participating in **leadership roles** that promote diversity and inclusion in science.
+
+As a **South Indian** from **Kerala**, I enjoy balancing my scientific work with hobbies like **traveling, working out, running, playing volleyball**, and **cooking**—all of which keep me inspired and grounded.
+
+---
+
+Feel free to explore my work or reach out if you're interested in collaborating!
 
 Research Interests
 ======
 
   * Multiwavelength observations of astrophysical transients in time-domain astronomy
-  * Maximizing scientific return from ongoing and upcoming all-sky surveys
+  * Maximizing scientific return from ongoing and upcoming all-sky surveys using cutting edge AI 
   * Understanding core-collapse supernovae with their remnants
   * Investigating precursor activities and mass-loss mechanisms in massive stars
      
 Contact
 ------
-Department of Physics and Astronomy
+Steward Observatory
 <br>
-Purdue University
+University of Arizona
 <br>
-525 Northwestern Avenue
+933 North Cherry Avenue, 
 <br>
-West Lafayette, IN 47906
+Tucson, AZ 85719
 <br><br>
-Email:bsubraya@purdue.edu
+Email:bsubrayan@arizona.edu
 <br>
 Phone: (+1)765-418-2457
