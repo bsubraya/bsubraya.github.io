@@ -1,0 +1,23 @@
+---
+layout: default
+---
+{%- comment -%}
+  Pages with `width: narrow` in their front matter get a centred reading
+  column instead of the full page width, so every block on the page shares
+  one left and right edge. Used by the list-heavy pages.
+{%- endcomment -%}
+{%- assign shell_class = 'shell' -%}
+{%- if page.width == 'narrow' -%}{%- assign shell_class = 'shell shell--narrow' -%}{%- endif -%}
+<div class="page-head">
+  <div class="{{ shell_class }}">
+    {% if page.eyebrow %}<span class="eyebrow">{{ page.eyebrow }}</span>{% endif %}
+    <h1 class="page-head__title">{{ page.title }}</h1>
+    {% if page.lede %}<p class="page-head__lede">{{ page.lede }}</p>{% endif %}
+  </div>
+</div>
+
+<div class="page-body">
+  <div class="{{ shell_class }}">
+    {{ content }}
+  </div>
+</div>

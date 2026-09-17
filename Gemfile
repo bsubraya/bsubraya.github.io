@@ -1,27 +1,31 @@
 source "https://rubygems.org"
 
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
+# ─────────────────────────────────────────────────────────────
+#  This file is ONLY for previewing the site on your own laptop.
+#  GitHub Pages builds the live site with its own pinned versions
+#  and ignores this file entirely — so nothing here can break the
+#  published site.
 #
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
+#  Usage:
+#    bundle install                    (once, and after editing this file)
+#    bundle exec jekyll serve --livereload
+# ─────────────────────────────────────────────────────────────
 
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 4.3"
 
-# If you want to use Jekyll native, uncomment the line below.
-# To upgrade, run `bundle update`.
-
-# gem "jekyll"
-
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
-# If you have any plugins, put them here!
 group :jekyll_plugins do
-  # gem "jekyll-archives"
-  gem "jekyll-feed"
-  gem 'jekyll-sitemap'
-  gem 'hawkins'
+  gem "jekyll-feed",          "~> 0.17"
+  gem "jekyll-sitemap",       "~> 1.4"
+  gem "jekyll-redirect-from", "~> 0.16"
 end
+
+# Ruby 3.0+ no longer bundles the web server Jekyll uses to serve locally.
+gem "webrick", "~> 1.8"
+
+# Ruby 3.4 moved these out of the standard library. Listing them keeps
+# `bundle install` quiet on newer Ruby versions.
+gem "base64"
+gem "bigdecimal"
+gem "csv"
+gem "logger"
+gem "ostruct"

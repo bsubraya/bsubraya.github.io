@@ -1,0 +1,30 @@
+{% comment %}
+  Talk list, driven by _data/talks.yml. Slides, posters and recordings
+  appear as link chips when the entry provides them.
+{% endcomment %}
+
+{% assign talk_count = site.data.talks.items | size %}
+{% assign invited_count = site.data.talks.items | where: "invited", true | size %}
+<p class="rows__caption">
+  {{ talk_count }} talks{% if invited_count > 0 %} &middot; {{ invited_count }} invited{% endif %}
+</p>
+
+<div class="rows">
+  {% for talk in site.data.talks.items %}
+    <div class="rows__item">
+      <span class="rows__when">{{ talk.date }}</span>
+      <div class="rows__what">
+        <strong>{{ talk.title }}</strong>{% if talk.venue %}, {{ talk.venue | strip }}{% endif %}
+        {% if talk.invited %}<p><em>Invited</em></p>{% endif %}
+        {% if talk.note %}<p>{{ talk.note }}</p>{% endif %}
+        {% if talk.slides or talk.poster or talk.video %}
+          <div class="links">
+            {% if talk.slides %}<a href="{{ talk.slides | relative_url }}">Slides</a>{% endif %}
+            {% if talk.poster %}<a href="{{ talk.poster | relative_url }}">Poster</a>{% endif %}
+            {% if talk.video %}<a href="{{ talk.video }}">Recording</a>{% endif %}
+          </div>
+        {% endif %}
+      </div>
+    </div>
+  {% endfor %}
+</div>

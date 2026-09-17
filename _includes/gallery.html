@@ -1,0 +1,48 @@
+{% comment %}
+  Figure gallery, driven by _data/gallery.yml. Renders nothing when the
+  list is empty, so the section can sit in a page permanently.
+{% endcomment %}
+
+{% assign items = site.data.gallery.items %}
+{% if items and items.size > 0 %}
+<section class="section section--raised" id="figures">
+  <div class="shell">
+    <span class="eyebrow">Figures</span>
+    <h2 class="section__title">Plots &amp; animations</h2>
+
+    <div class="gallery">
+      {% for item in items %}
+        {% assign ext = item.file | split: '.' | last | downcase %}
+        <figure class="gallery__item">
+
+          {% capture media %}
+            {% if ext == 'mp4' or ext == 'webm' %}
+              <video src="{{ item.file | relative_url }}" autoplay loop muted playsinline
+                     aria-label="{{ item.title | escape }}"></video>
+            {% else %}
+              <img src="{{ item.file | relative_url }}"
+                   alt="{{ item.alt | default: item.title | escape }}"
+                   loading="lazy" decoding="async">
+            {% endif %}
+          {% endcapture %}
+
+          {% assign frame_class = 'gallery__frame' %}
+          {% if item.plate %}{% assign frame_class = 'gallery__frame gallery__frame--plate' %}{% endif %}
+
+          {% if item.link %}
+            <a class="{{ frame_class }}" href="{{ item.link }}">{{ media }}</a>
+          {% else %}
+            <span class="{{ frame_class }}">{{ media }}</span>
+          {% endif %}
+
+          <figcaption>
+            <h3 class="gallery__title">{{ item.title }}</h3>
+            {% if item.caption %}<p class="gallery__caption">{{ item.caption }}</p>{% endif %}
+            {% if item.credit %}<p class="gallery__credit">{{ item.credit }}</p>{% endif %}
+          </figcaption>
+        </figure>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}

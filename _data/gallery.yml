@@ -1,0 +1,46 @@
+# ══════════════════════════════════════════════════════════════
+#  FIGURES, PLOTS & ANIMATIONS
+#  Rendered at the bottom of the Research page.
+# ══════════════════════════════════════════════════════════════
+#
+#  To add one: put the file in images/ (or files/ for video), then copy
+#  a block below and edit it. Newest first. Delete a block to remove it.
+#  If this list is empty the whole section disappears from the page.
+#
+#  Fields
+#  ──────
+#  file      required. Path from the site root, e.g. /images/my-plot.png
+#            Works with .png .jpg .gif .svg .mp4 .webm
+#  title     required. Short label, shown under the figure.
+#  caption   optional. A sentence or two. HTML links are allowed.
+#  plate     optional. Set to true when the figure has a WHITE background
+#            (most matplotlib output). Adds a light mat so it reads as a
+#            printed plate instead of glaring against the dark page.
+#            Leave it off for dark images, photos and videos.
+#  link      optional. URL the figure should link to: the paper, the data,
+#            an interactive version.
+#  credit    optional. Small attribution line, e.g. "Subrayan et al. 2026".
+#
+#  Videos: use .mp4 (H.264). They autoplay muted and loop, like a GIF but
+#  far smaller. A .gif works too and needs no special handling.
+#
+# ══════════════════════════════════════════════════════════════
+
+items:
+
+  # ── Nothing here yet, so the section is hidden. Uncomment one of
+  #    the blocks below (or write your own) and it appears on the
+  #    Research page immediately. Delete the leading "# " on each line.
+  #
+  # - file: /images/dust-mass-evolution.png
+  #   title: "Dust mass evolution across the Type IIP sample"
+  #   caption: >
+  #     Cold dust mass as a function of days since explosion for the eleven
+  #     supernovae in the JWST/MIRI sample.
+  #   plate: true
+  #   link: https://arxiv.org/abs/XXXX.XXXXX
+  #   credit: "Subrayan et al. 2026"
+  #
+  # - file: /files/ejecta-animation.mp4
+  #   title: "Modelled ejecta expansion"
+  #   caption: "Two thousand days of expansion, compressed into six seconds."

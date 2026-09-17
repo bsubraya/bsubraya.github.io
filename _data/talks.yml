@@ -1,0 +1,78 @@
+# ══════════════════════════════════════════════════════════════
+#  TALKS
+#  Rendered on the Talks & Awards page.
+# ══════════════════════════════════════════════════════════════
+#
+#  To add a talk: copy a block and put it at the TOP of the list.
+#  To attach slides: drop the PDF in files/ and add a `slides:` line.
+#
+#  Fields
+#  ──────
+#  date      required. Display string, e.g. "May 2026", "Nov–Dec 2023", "2021–2023".
+#  title     required. Talk title, or the meeting name.
+#  venue     optional. Institution and/or city.
+#  invited   optional. true adds an "Invited" tag.
+#  note      optional. One extra line, e.g. "Awarded travel support".
+#  slides    optional. Path to a PDF, e.g. /files/asu-mma-2026.pdf
+#  poster    optional. Path to a poster PDF.
+#  video     optional. URL to a recording.
+#
+# ══════════════════════════════════════════════════════════════
+
+items:
+
+  - date: "May 2026"
+    title: "ASU Spring 2026 Workshop on Multi-Messenger Astrophysics"
+    venue: "Arizona State University"
+    invited: true
+    # slides: /files/your-slides.pdf
+
+  - date: "March 2026"
+    title: "RAPID: Hot-wiring the Transient Universe"
+    venue: "Caltech"
+    note: "Awarded travel support"
+
+  - date: "February 2026"
+    title: "Multi-Messenger Astrophysics in the Dynamic Universe"
+    venue: "Kyoto University"
+    note: "Awarded travel support"
+
+  - date: "January 2026"
+    title: "247th AAS Winter Meeting"
+    venue: "Phoenix, Arizona"
+
+  - date: "November 2025"
+    title: "Steward Observatory stakeholders' talk"
+    venue: "University of Arizona"
+    invited: true
+
+  - date: "March 2025"
+    title: "Transients from Space"
+    venue: "STScI, Baltimore"
+
+  - date: "August 2024"
+    title: "Rise_Time Conference"
+    venue: "Purdue University"
+
+  - date: "May 2024"
+    title: "Rare Gems in Big Data"
+    venue: "NOIRLab, Arizona"
+
+  - date: "January 2024"
+    title: "243rd AAS Winter Meeting"
+    venue: "New Orleans"
+
+  - date: "January 2024"
+    title: "Observational Astronomy Meeting"
+    venue: "CIERA, Northwestern University"
+
+  - date: "Nov–Dec 2023"
+    title: "Seminar tour following the AT 2021lwx result"
+    venue: >
+      HEAD Frontier Seminar · Transient Science @ Space Telescope (STScI) ·
+      AstroCoffee (Johns Hopkins) · Transient Group Meeting (Harvard CfA) ·
+      Monday Afternoon Talk (MIT Kavli Institute)
+
+  - date: "2021–2023"
+    title: "BigBoom Talk Series, BOOM! An LSST Workshop, and the Spoken-WERDD Symposium"
+    venue: "University of Arizona · Illinois"

@@ -1,43 +1,254 @@
 ---
+layout: page
 permalink: /outreach/
-title: "Outreach"
-author_profile: true
-redirect_from: 
+title: "Outreach & Service"
+width: narrow
+eyebrow: "Public engagement, leadership, service"
+lede: "Science communication, community building, and the unglamorous service work that keeps a field functioning."
+description: "Public engagement, science communication, leadership and academic service by Bhagya M. Subrayan, including NPR 1A, JWST launch outreach, WISP and journal refereeing."
+redirect_from:
   - /md/
   - /outreach.html
 ---
-<h2>Promoting Science through Communication and Public Engagement</h2>
 
-<p style="text-align:center;max-width:45%;margin-left:20px;padding-bottom:-50px;display:block;float:right;vertical-align:top"><img src="https://bsubraya.github.io/images/NPR1A.jpeg" alt="NPR 1A podcast" data-api-endpoint="https://bsubraya.github.io/images/NPR1A.jpeg" data-api-returntype="File" /><br /><span style="font-size: medium;">Minutes berfore live on air for <a href="https://www.npr.org/podcasts/510316/1a" style="text-decoration:none">NPR 1A </a> podcast with my supervisor Dr. Danny Milisavljevic</span>
-</p>
-<p> I was thrilled and immensely grateful to have had the wonderful opportunity to be a guest on the esteemed <a href="https://www.npr.org/podcasts/510316/1a" style="text-decoration:none">National Public Radio (NPR) 1A </a>  podcast, where I had the privilege to discuss our latest work on AT2021lwx aka "Scary Barbie." It was an unforgettable experience to share our research and insights with such a wide audience. The experience deepened my appreciation for the importance of science communication, bridging the gap between research and the general public. You can listen to the podcast <a href = "https://the1a.org/segments/scientific-method-when-a-supermassive-black-hole-devours-a-star/" style="text-decoration:none">here</a>.</p>
+<!-- ════════════════ PUBLIC ENGAGEMENT ══════════════════════ -->
+<section class="mb-3">
+  <span class="eyebrow">Public engagement</span>
+  <h2 class="section__title">Talking about this work in public</h2>
 
-<p style="text-align:center;max-width:45%;margin-right:30px;padding-bottom:-50px;display:block;float:left;vertical-align:top"><img src="https://bsubraya.github.io/images/JWST_outreach.jpeg" alt="JWST Outreach" data-api-endpoint="https://bsubraya.github.io/images/JWST_outreach.jpeg" data-api-returntype="File" /><br /><span style="font-size: medium;"> JWST Outreach with Danielle Dickinson</span>
-</p>
-<p> During the exciting times surrounding the launch of JWST, Purdue Department of Physics and Astronomy hosted a <a href="https://express.adobe.com/page/O66xeEfENAb9R/?_ga=2.43759777.541119511.1684420215-1579954978.1679585061" style = "text-decoration:none">virtual launch party </a> where I was invited to serve as the Master of Ceremony. I moderated a panel of 6 science experts sharing enthusiasm and excitement about the JWST launch and its science. The <a href="https://www.youtube.com/watch?v=yzqsDOQoZ1w&feature=youtu.be" style="text-decoration:none">launch party</a> was streamed live on YouTube. Later, the department hosted another public outreach program following the first release of images from JWST. I was given the opportunity to serve as as a co-MC for this outreach. Check out the video on <a href="https://www.youtube.com/watch?v=mMy0KydjJyY&t=1333s&ab_channel=SaturdayMorningAstrophysicsatPurdue" style="text-decoration:none" >First Light: A Discussion of the first images returned from the James Webb Space Telescope</a>.</p>
+  <div class="split">
+    <figure class="split__media">
+      <img src="{{ '/images/NPR1A.jpeg' | relative_url }}"
+           alt="Bhagya Subrayan and Danny Milisavljevic minutes before going live on the NPR 1A podcast"
+         loading="lazy" decoding="async">
+      <figcaption>
+        Minutes before going live on <a href="https://www.npr.org/podcasts/510316/1a">NPR&nbsp;1A</a>
+        with my advisor, Dr. Danny Milisavljevic.
+      </figcaption>
+    </figure>
 
-<p style="text-align:center;max-width:50%;margin-right:30px;padding-bottom:-50px;display:block;float:right;vertical-align:top"><img src="https://bsubraya.github.io/images/Tap_BSubrayan.jpeg" alt="JWST Tap Outreach" data-api-endpoint="https://bsubraya.github.io/images/Tap_BSubrayan.jpeg" data-api-returntype="File" /><br /><span style="font-size: medium;"> <a href="https://twitter.com/AoT_CoA" style="text-decoration:none">Astro On Tap--Cradle of Astronauts</a> </span>
-</p>
+    <div class="split__body">
+      <h3>NPR 1A: a black hole eating a star</h3>
+      <p>
+        I was a guest on <a href="https://www.npr.org/podcasts/510316/1a">National Public
+        Radio's 1A</a> to discuss our work on AT&nbsp;2021lwx, the one we called &ldquo;Scary
+        Barbie&rdquo;, with a general audience. Having to explain a tidal disruption
+        event without any of the usual scaffolding turned out to sharpen how I think about
+        the result itself, and it left me with a lot more respect for the craft of science
+        communication.
+      </p>
+      <div class="links">
+        <a href="https://the1a.org/segments/scientific-method-when-a-supermassive-black-hole-devours-a-star/">Listen to the segment</a>
+      </div>
+    </div>
+  </div>
 
-<p>I gave a talk on Astro On Tap -- Cradle of Astronauts sharing my passion for astronomy and the incredible possibilities offered by the JWST. Engaging with the enthusiastic audience and discussing the upcoming advancements of the JWST opened my eyes to the importance of conveying complex scientific concepts in an accessible and engaging manner. It highlighted the power of storytelling and visuals in capturing the imagination and inspiring a sense of wonder about the universe.</p><br>
+  <div class="split split--flip">
+    <figure class="split__media">
+      <img src="{{ '/images/JWST_outreach.jpeg' | relative_url }}"
+           alt="Bhagya Subrayan hosting a JWST outreach event with Danielle Dickinson"
+         loading="lazy" decoding="async">
+      <figcaption>JWST outreach with Danielle Dickinson.</figcaption>
+    </figure>
 
-<p style="text-align:center;max-width:45%;margin-right:30px;padding-bottom:-50px;display:block;float:left;vertical-align:top"><img src="https://bsubraya.github.io/images/SMAP.jpeg" alt="SMAP Outreach" data-api-endpoint="https://bsubraya.github.io/images/SMAP.jpeg" data-api-returntype="File" /><br /><span style="font-size: medium;"> <a href="https://www.physics.purdue.edu/outreach/saturday-morning/index.html" style="text-decoration:none">Saturday Morning Astrophysics at Purdue (SMAP)</a> </span>
-</p>
+    <div class="split__body">
+      <h3>Hosting the JWST launch and first light</h3>
+      <p>
+        Around the launch of JWST, the Purdue Department of Physics and Astronomy held a
+        <a href="https://express.adobe.com/page/O66xeEfENAb9R/">virtual launch party</a>
+        where I served as Master of Ceremony, moderating a panel of six scientists on what
+        the telescope would actually be able to do. The
+        <a href="https://www.youtube.com/watch?v=yzqsDOQoZ1w">launch party</a> streamed live
+        on YouTube. When the first images arrived, I co-hosted the follow-up event,
+        <a href="https://www.youtube.com/watch?v=mMy0KydjJyY">First Light: A Discussion of
+        the First Images Returned from the James Webb Space Telescope</a>.
+      </p>
+    </div>
+  </div>
 
-<p> I am a volunteer at the Saturday Morning Astrophysics at Purdue (SMAP) where will ignite passion for astrophysics and nurture the next generation of scientific thinkers and explorers. We work with middle and high school students in grades 7-12 diving into current topics in astro research, historical background and discovery, and fundamental principles related to physics and astronomy. During pandemic, I gave a <a href="https://www.youtube.com/watch?v=imOoTtWWatE&t=160s&ab_channel=SaturdayMorningAstrophysicsatPurdue" style="text-decoration:none">virtual </a> lesson on Stellarium with Jack Reynolds. </p>
+  <div class="split">
+    <figure class="split__media">
+      <img src="{{ '/images/Tap_BSubrayan.jpeg' | relative_url }}"
+           alt="Bhagya Subrayan giving a talk at Astro On Tap, Cradle of Astronauts"
+         loading="lazy" decoding="async">
+      <figcaption>
+        <a href="https://twitter.com/AoT_CoA">Astro On Tap: Cradle of Astronauts</a>.
+      </figcaption>
+    </figure>
 
-<h2>Leadership and Service</h2>
+    <div class="split__body">
+      <h3>Astro On Tap</h3>
+      <p>
+        A bar is an unforgiving venue for a talk about infrared spectroscopy, and a very
+        good place to learn what actually lands. I spoke at Astro On Tap: Cradle of
+        Astronauts about JWST and what it would let us see, and came away convinced that
+        storytelling and a single good image do more work than any amount of detail.
+      </p>
+    </div>
+  </div>
 
-<p style="text-align:center;max-width:100%;margin-right:30px;padding-bottom:-50px;display:block;float:right;vertical-align:top"><img src="https://bsubraya.github.io/images/WISP.jpg" alt="WISP Outreach" data-api-endpoint="https://bsubraya.github.io/images/WISP.jpg" data-api-returntype="File" /><br /><span style="font-size: medium;"> <a href="https://www.purdue.edu/science/wisp/graduate/index.html" style="text-decoration:none">Women In Science Program (WISP)</a> </span>
-</p>
+  <div class="split split--flip">
+    <figure class="split__media">
+      <img src="{{ '/images/SMAP.jpeg' | relative_url }}"
+           alt="Saturday Morning Astrophysics at Purdue outreach session with students"
+         loading="lazy" decoding="async">
+      <figcaption>
+        <a href="https://www.physics.purdue.edu/outreach/saturday-morning/index.html">Saturday
+        Morning Astrophysics at Purdue (SMAP)</a>.
+      </figcaption>
+    </figure>
 
-<p> Passionately supporting women and underrepresented groups in STEM, I am driven to break down barriers and create a more inclusive scientific community. <a href="https://www.purdue.edu/science/wisp/graduate/index.html" style="text-decoration:none">WISP</a> stands for Women in Science Program. A platform for graduate students across STEM fields at Purdue could network, support and help each other succeed in their careers. We plan a series of monthly events with invited speakers throughout an academic year on life-skills/ science based topics. I served as the Graduate WISP Leadership Member and liasion for the Department of Physics and Astronomy from 2020-2023 mentoring and supporting undergraduate and graduate women in STEM fields at Purdue. </p>
+    <div class="split__body">
+      <h3>Saturday Morning Astrophysics</h3>
+      <p>
+        SMAP works with students in grades 7&ndash;12 on current research topics, their
+        historical background, and the physics underneath them. I volunteered throughout
+        graduate school, and during the pandemic taught a
+        <a href="https://www.youtube.com/watch?v=imOoTtWWatE">virtual lesson on Stellarium</a>
+        with Jack Reynolds. Teaching a fourteen-year-old to find a nebula from their bedroom
+        is a decent test of whether you understand the sky yourself.
+      </p>
+    </div>
+  </div>
+</section>
 
-<p style="text-align:center;max-width:100%;margin-right:30px;padding-bottom:-50px;display:block;float:right;vertical-align:top"><img src="https://bsubraya.github.io/images/EA.jpeg" alt="PGSA Outreach" data-api-endpoint="https://bsubraya.github.io/images/EA.jpeg" data-api-returntype="File" /><br /><span style="font-size: medium;"> <a href="https://www.physics.purdue.edu/pgsa/about/index.php" style="text-decoration:none">Physics Graduate Student Association(PGSA)</a> </span>
-</p>
+<!-- ═════════════════════ LEADERSHIP ════════════════════════ -->
+<section class="section section--tight mb-1">
+  <span class="eyebrow">Leadership</span>
+  <h2 class="section__title">Building communities</h2>
 
-<p> Serving as the President of <a href="https://www.physics.purdue.edu/pgsa/about/index.php" style="text-decoration:none">Physics Graduate Student Association(PGSA)</a> for the year 2022-23, I was elated to foster a strong community in graduate school. We provided invaluable resources and support for graduate students, from professional development to social events and academic assistance. The experience taught me the importance of listening to the diverse voices of graduate students and striving to create an environment that fosters growth, friendships and a sense of belonging.</p>
+  <div class="split">
+    <figure class="split__media">
+      <img src="{{ '/images/WISP.jpg' | relative_url }}"
+           alt="Women in Science Program event at Purdue University"
+         loading="lazy" decoding="async">
+      <figcaption>
+        <a href="https://www.purdue.edu/science/wisp/graduate/index.html">Women in Science
+        Program (WISP)</a>, Purdue University.
+      </figcaption>
+    </figure>
 
+    <div class="split__body">
+      <h3>Women in Science Program, 2020&ndash;2023</h3>
+      <p>
+        WISP is a platform for graduate students across STEM at Purdue to network and
+        support each other. As the Graduate WISP leadership member and liaison for the
+        Department of Physics and Astronomy, I designed and ran a monthly seminar series with
+        invited speakers on professional development and scientific topics, and mentored
+        undergraduate and graduate women in STEM. Supporting women and underrepresented
+        groups in this field is something I intend to keep doing wherever I land.
+      </p>
+    </div>
+  </div>
 
+  <div class="split split--flip">
+    <figure class="split__media">
+      <img src="{{ '/images/EA.jpeg' | relative_url }}"
+           alt="Physics Graduate Student Association event at Purdue University"
+         loading="lazy" decoding="async">
+      <figcaption>
+        <a href="https://www.physics.purdue.edu/pgsa/about/index.php">Physics Graduate
+        Student Association (PGSA)</a>, Purdue University.
+      </figcaption>
+    </figure>
 
+    <div class="split__body">
+      <h3>President, Physics Graduate Student Association, 2022&ndash;2023</h3>
+      <p>
+        As PGSA president I ran professional development, academic support and social
+        programming for the department's graduate students. The job was mostly listening:
+        graduate students want very different things from a department, and the useful work
+        was in making room for that rather than assuming a single answer.
+      </p>
+      <p>
+        I also served on the Scientific Organizing Committee for the 2022 Spoken-WERDD
+        Symposium, coordinating abstracts, scheduling, and the symposium's code of conduct.
+      </p>
+    </div>
+  </div>
+</section>
 
+<!-- ═══════════════════ ACADEMIC SERVICE ════════════════════ -->
+<section class="mb-3">
+  <span class="eyebrow">Service</span>
+  <h2 class="section__title">Academic service</h2>
+
+  <div class="rows">
+    <div class="rows__item">
+      <span class="rows__when">2024&ndash;2026</span>
+      <div class="rows__what">
+        <strong>Journal referee</strong>
+        <p>Nature Astronomy, Monthly Notices of the Royal Astronomical Society, and Astronomy &amp; Astrophysics.</p>
+      </div>
+    </div>
+    <div class="rows__item">
+      <span class="rows__when">2024&ndash;2026</span>
+      <div class="rows__what">
+        <strong>Proposal review panels</strong>
+        <p>
+          HST Cycles 33&ndash;34, JWST Director's Discretionary time, NASA panels.
+        </p>
+      </div>
+    </div>
+    <div class="rows__item">
+      <span class="rows__when">2022</span>
+      <div class="rows__what">
+        <strong>Scientific Organizing Committee</strong>
+        <p>Spoken-WERDD Symposium.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════════════ MEDIA ════════════════════════════ -->
+<section>
+  <span class="eyebrow">Press</span>
+  <h2 class="section__title">Selected media</h2>
+
+  <div class="rows">
+    <div class="rows__item">
+      <span class="rows__when">2024</span>
+      <div class="rows__what">
+        <a href="https://theconversation.com/why-does-a-leap-year-have-366-days-218330">Why does a leap year have 366 days?</a>
+        <span class="rows__source">Curious Kids, <em>The Conversation</em></span>
+      </div>
+    </div>
+    <div class="rows__item">
+      <span class="rows__when">2023</span>
+      <div class="rows__what">
+        <a href="https://the1a.org/segments/scientific-method-when-a-supermassive-black-hole-devours-a-star/">Scientific Method: when a supermassive black hole devours a star</a>
+        <span class="rows__source"><em>NPR 1A</em></span>
+      </div>
+    </div>
+    <div class="rows__item">
+      <span class="rows__when">2023</span>
+      <div class="rows__what">
+        <a href="https://www.cbsnews.com/news/scary-barbie-supermassive-black-hole-star-spaghettification-space-artificial-intelligence/">Astronomers detect &ldquo;Scary Barbie&rdquo; supermassive black hole ripping apart a huge star</a>
+        <span class="rows__source"><em>CBS News</em></span>
+      </div>
+    </div>
+    <div class="rows__item">
+      <span class="rows__when">2023</span>
+      <div class="rows__what">
+        <a href="https://www.usatoday.com/story/news/nation/2023/05/12/largest-space-explosion-scary-barbie-black-hole/70212322007/">Why the universe's largest cosmic explosion is called &lsquo;Scary Barbie&rsquo;</a>
+        <span class="rows__source"><em>USA Today</em></span>
+      </div>
+    </div>
+    <div class="rows__item">
+      <span class="rows__when">2023</span>
+      <div class="rows__what">
+        <a href="https://www.purdue.edu/newsroom/2023/Q2/uncovering-a-stars-demise-supermassive-black-hole-tears-apart-a-giant-star-in-a-display-brighter-more-energetic-and-longer-lasting-than-any-observed-before/">Uncovering a star's demise</a>
+        <span class="rows__source"><em>Purdue News</em></span>
+      </div>
+    </div>
+    <div class="rows__item">
+      <span class="rows__when">2021&ndash;2022</span>
+      <div class="rows__what">
+        Master of Ceremony for
+        <a href="https://www.youtube.com/watch?v=mMy0KydjJyY">JWST First Light</a> and the
+        <a href="https://www.youtube.com/watch?v=yzqsDOQoZ1w">JWST Launch Party</a>;
+        <a href="https://www.youtube.com/watch?v=imOoTtWWatE">Stellarium lesson</a> for SMAP
+      </div>
+    </div>
+  </div>
+</section>
