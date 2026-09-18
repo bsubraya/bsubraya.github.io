@@ -51,7 +51,7 @@ description: "Refereed publications by Bhagya M. Subrayan, with links to NASA AD
       <span class="pub__title">Insights from late-time and HST observations of the extreme nuclear transient AT&nbsp;2021lwx</span>
       <p class="pub__authors"><b>Subrayan, B. M.</b>, Milisavljevic, D., Garretson, B., et al.</p>
       <p class="pub__meta"><em>in preparation, submission Fall 2026</em></p>
-      <div class="links"><span class="links__tag">In preparation</span></div>
+      <div class="links"><span class="links__tag">Upcoming Fall 2026</span></div>
     </li>
 
     <li class="pub">
@@ -105,7 +105,7 @@ description: "Refereed publications by Bhagya M. Subrayan, with links to NASA AD
       <span class="pub__year">2026</span>
       <span class="pub__title">Nearby supernova science in the era of high-cadence, deep time-domain surveys</span>
       <p class="pub__authors">Sand, D. J., <b>Subrayan, B. M.</b>, Ransome, C. L., et al.</p>
-      <p class="pub__meta"><em>submitted</em></p>
+      <p class="pub__meta"><em>to be submitted</em></p>
       <div class="links"><span class="links__tag">arXiv link coming</span></div>
     </li>
 
