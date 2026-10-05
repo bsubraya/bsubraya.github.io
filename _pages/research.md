@@ -271,7 +271,7 @@ Dust mass as a function of phase for our 11 SNe (large colored symbols) and comp
 <!-- ───────────────────────── 5. REFITT ─────────────────────── -->
 <section class="project" id="refitt">
   <figure class="project__figure project__figure--plate">
-    <img src="{{ '/images/Science_Follow_up.png' | relative_url }}"
+    <img src="{{ '/images/dual_model_convert.gif' | relative_url }}"
          alt="REFITT characterisation of transients from grids of core-collapse simulations, and recommended follow-up epochs for ZTF22aaacxkp"
          loading="lazy" decoding="async">
     <figcaption>
