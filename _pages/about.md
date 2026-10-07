@@ -48,7 +48,7 @@ redirect_from:
 -->
 <section class="facts">
   <div class="facts__item">
-    <span class="facts__value">JWST, HST, Keck, Gemini, AZ Telescopes</span>
+    <span class="facts__value">JWST, HST, Keck, Gemini, Magellan, AZ Telescopes</span>
     <span class="facts__label">Programs led as PI</span>
   </div>
   <div class="facts__item">
