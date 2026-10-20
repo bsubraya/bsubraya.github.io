@@ -54,7 +54,7 @@ redirect_from:
   <div class="facts__item">
     <span class="facts__value">141+</span>
     <span class="facts__label">Refereed &amp; non-refereed publications</span>
-    <span class="facts__value">470+</span>
+    <span class="facts__value">500+</span>
     <span class="facts__label">Citations</span>
   </div>
   <div class="facts__item">
