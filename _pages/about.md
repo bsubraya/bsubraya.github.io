@@ -125,7 +125,7 @@ Feel free to explore my work or reach out if you’re interested in collaboratin
       <div class="rows__item">
         <span class="rows__when">2024 &ndash; Present</span>
         <div class="rows__what">
-          <strong>Postdoctoral Research Associate</strong>
+          <strong>Postdoctoral Researcher</strong>
           <span class="rows__now">Current</span>
           <p>
             <a href="https://www.as.arizona.edu/">Steward Observatory</a>, University of
