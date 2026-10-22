@@ -96,7 +96,7 @@ description: "Refereed publications by Bhagya M. Subrayan, with links to NASA AD
 <!-- ──────────────────────── SECOND AUTHOR ──────────────────── -->
 <div class="pub-group">
   <div class="pub-group__head">
-    <h2 class="pub-group__title">Second-author papers</h2>
+    <h2 class="pub-group__title">Major Contributions: Second-author papers</h2>
     <span class="pub-group__count">5 papers</span>
   </div>
 
