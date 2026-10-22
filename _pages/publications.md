@@ -106,7 +106,7 @@ description: "Refereed publications by Bhagya M. Subrayan, with links to NASA AD
       <span class="pub__title">Nearby supernova science in the era of high-cadence, deep time-domain surveys</span>
       <p class="pub__authors">Sand, D. J., <b>Subrayan, B. M.</b>, Ransome, C. L., et al.</p>
       <p class="pub__meta"><em>to be submitted</em></p>
-      <div class="links"><span class="links__tag">arXiv link coming</span></div>
+      <div class="links"><a href="https://arxiv.org/abs/2609.38304">arXiv:2609.38304</a></div>
     </li>
 
     <li class="pub">
