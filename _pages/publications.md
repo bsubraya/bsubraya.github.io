@@ -40,7 +40,7 @@ description: "Refereed publications by Bhagya M. Subrayan, with links to NASA AD
       <span class="pub__year">2026</span>
       <span class="pub__title">A JWST/MIRI study of dust in a sample of normal Type IIP core-collapse supernovae</span>
       <p class="pub__authors"><b>Subrayan, B. M.</b>, Sand, D. J., Culbert, O., et al.</p>
-      <p class="pub__meta"><em>submitted</em></p>
+      <p class="pub__meta"><em>submitted to ApJ</em></p>
       <div class="links">
         <a href="https://arxiv.org/abs/2608.16979">arXiv:2608.16979</a>
       </div>
@@ -105,7 +105,7 @@ description: "Refereed publications by Bhagya M. Subrayan, with links to NASA AD
       <span class="pub__year">2026</span>
       <span class="pub__title">Nearby supernova science in the era of high-cadence, deep time-domain surveys</span>
       <p class="pub__authors">Sand, D. J., <b>Subrayan, B. M.</b>, Ransome, C. L., et al.</p>
-      <p class="pub__meta"><em>to be submitted</em></p>
+      <p class="pub__meta"><em>submitted to PASP</em></p>
       <div class="links"><a href="https://arxiv.org/abs/2609.38304">arXiv:2609.38304</a></div>
     </li>
 
@@ -113,7 +113,7 @@ description: "Refereed publications by Bhagya M. Subrayan, with links to NASA AD
       <span class="pub__year">2026</span>
       <span class="pub__title">First results from the LSST shadow survey: the restless luminous blue variable AT&nbsp;2017des in the Virgo-cluster galaxy NGC&nbsp;4532</span>
       <p class="pub__authors">Ransome, C. L., <b>Subrayan, B. M.</b>, Sand, D. J., et al.</p>
-      <p class="pub__meta"><em>submitted</em></p>
+      <p class="pub__meta"><em>submitted to ApJL</em></p>
       <div class="links">
         <a href="https://arxiv.org/abs/2606.23784">arXiv:2606.23784</a>
       </div>
